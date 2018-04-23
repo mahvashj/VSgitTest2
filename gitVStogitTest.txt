@@ -1,1 +1,2 @@
 Testing VS with Git Repos
+Testing files added to git from local machine
